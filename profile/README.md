@@ -1,12 +1,2 @@
-## Hi there 👋
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Important Note:
+As our lab has had [an institutional website](https://avesis.gazi.edu.tr/arastirma-grubu/lrg/) for the last year, we will close lrgresearch.org and GitHub relations shortly. Therefore, we have moved gpaw-tools and several other repositories of Prof. Lisesivdin to [https://sblisesivdin.github.io](https://sblisesivdin.github.io). As a result, the legal address of gpaw-tools is now [https://sblisesivdin.github.io/gpaw-tools](https://sblisesivdin.github.io/gpaw-tools). We apologize for any inconvenience this may have caused.
